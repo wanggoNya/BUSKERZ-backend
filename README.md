@@ -7,21 +7,24 @@
   
   <br>
   
+*********
 > ### <b> branch 설명 </b>
-  
-#### 🌵 master
 #### 
 
+|✔️ 최종||
+| :------ | ------ |
+|||
 |🌵 master|➿ 최종 backend 작업물이 올라와있는 브랜치입니다.|
-| ------ | ------ |
-|🌵 per||
-| ------ | ------ |
+|||
+|✔️ per 그룹||
 |🌵 per/Per_ver01||
 |🌵 per/Per_ver02||
 |🌵 per/Per_ver03_mapperInterfaceMethod||
 |🌵 per/Per_ver04_mapper.xml||
 |🌵 per/Per_ver05_test||
 |🌵 per/persistance||
+|||
+|✔️ show 그룹||
 |🌵 show/01_xml||
 |🌵 show/02_daoService||
 |🌵 show/03_controllerHtml||

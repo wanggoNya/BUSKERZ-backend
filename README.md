@@ -10,37 +10,29 @@
 > ### <b> branch 설명 </b>
   
 #### 🌵 master
-#### ➿ 최종 backend 작업물이 올라와있는 브랜치입니다.
+#### 
 
-
-#### 🌵 per/Per_ver01
-
-#### 🌵 per/Per_ver02
-
-#### 🌵 per/Per_ver03_mapperInterfaceMethod
-
-#### 🌵 per/Per_ver04_mapper.xml
-
-#### 🌵 per/Per_ver05_test
-
-#### 🌵 per/persistance
-
-#### 🌵 show/01_xml
-
-#### 🌵 show/02_daoService
-
-#### 🌵 show/03_controllerHtml
-
-#### 🌵 show/04_ajax
-
-#### 🌵 show/05_replyAjax
-
-#### 🌵 show/06_showIng
+|🌵 master|➿ 최종 backend 작업물이 올라와있는 브랜치입니다.|
+| ------ | ------ |
+|🌵 per||
+| ------ | ------ |
+|🌵 per/Per_ver01||
+|🌵 per/Per_ver02||
+|🌵 per/Per_ver03_mapperInterfaceMethod||
+|🌵 per/Per_ver04_mapper.xml||
+|🌵 per/Per_ver05_test||
+|🌵 per/persistance||
+|🌵 show/01_xml||
+|🌵 show/02_daoService||
+|🌵 show/03_controllerHtml||
+|🌵 show/04_ajax||
+|🌵 show/05_replyAjax||
+|🌵 show/06_showIng||
 
 *********
 > ### <b> wanggoNya 진행 현황 정리 💭 </b>
 
-| DAY      | 팀 보고  | 파트      | 진행 세부사항         |
+| DAY      | 팀 보고      |  파트      | 진행 세부사항         |
 | :------: | :------: | :------: |------------------------- |
 | 6/14 (화) | ⭕ | <b>3-tier 설계(Persistance 파트)</b> | RDB 생성 <br> mapper Interface 메서드 작성 시작 |
 | 6/15 (수) | ⭕ | <b>3-tier 설계(Persistance 파트)</b> | mapper Interface 메서드 작성 완료 <br> mapper.xml (쿼리문) 작성 시작 |
@@ -50,7 +42,7 @@
 | 6/19 (일) | ⭕ | <b>공연예정, 실시간공연</b> | mapper.xml 동적쿼리 등 작성 완료, <br> mapper, dao, service 작성 및 단위 테스트 완료, 공연예정 목록 3-tier연결,  <br> 페이징 처리, simpledateformat으로 d-day 표시 완료 <br> 공연 등록 controller 진행 중 |
 | 6/20 (월) | ⭕ | <b>공연예정, 실시간공연</b> | 공연 등록, 수정, 삭제 3-tier 연결 완료 <br> SimpleDateFormat을 이용한 공연 목록 D-day 순 정렬, 사용자에게 D-day 표시 <br> 공연 상세페이지 댓글 프론트 추가 완료, 도로명 주소 카카오맵에 표시 후 커스텀 오버레이 완료 <br>  |
 | 6/21 (화) | ⭕ | <b>공연예정</b> | 공연 목록 전체/뮤지션/퍼포먼스 카테고리 변경 REST 처리 완료 <br> REST 이용한 상세페이지 댓글 등록, 페이징, 공연예정목록 페이징 처리 완료 |
-| 6/22 (수) | ⭕ | <b>공연예정, 실시간공연</b> | 실시간공연 도로명 주소 좌표 배열에 넣은 후 지역별 분류, 카카오맵 표시 완료 |
+| 6/22 (수) | ⭕ | <b>실시간공연</b> | 실시간공연 도로명 주소 좌표 배열에 넣은 후 지역별 분류, <br> 카카오맵에 핀 표시 완료, 핀 배열의 value를 이용해 <br> 상세페이지 연결 완료, REST를 이용해 지역별 목록 뽑기 완료 |
 | 6/23 (목) |  |  |  |
 | 6/24 |  |  |  |
 | 6/25 |  |  |  |

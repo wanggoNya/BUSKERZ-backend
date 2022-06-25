@@ -22,7 +22,7 @@
 |🌵 per/Per_ver04_mapper.xml| mapper.xml (sql 쿼리문)을 작성하여 업로드한 브랜치입니다. |
 |🌵 per/Per_ver05_test| 작업하며 진행한 테스트 파일들을 업로드한 브랜치입니다. |
 |||
-|✔️ show 그룹|    |
+|✔️ show 그룹| 공연예정, 실시간공연 페이지를 구현하는 브랜치입니다. |
 |🌵 show/01_xml| 공연 테이블에 대한 쿼리문을 작성한 xml 파일을 업로드한 브랜치입니다. |
 |🌵 show/02_daoService| dao와 service를 작성하고 테스트한 파일을 업로드한 브랜치입니다. |
 |🌵 show/03_controllerHtml| 컨트롤러, html 연결 작업 파일을 업로드한 브랜치입니다. |
